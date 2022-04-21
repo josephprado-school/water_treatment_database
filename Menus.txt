@@ -1,0 +1,70 @@
+DSS for Washington's Water Treatment Facilities
+    Water Sources, Treatments & Regulations
+    Businesses
+    Statistics & Data Analysis
+    Updates
+
+    Water Sources, Treatments & Regulations
+        Current Activities
+        Water Treatment Regulations
+        Regulation Compliance
+
+    Businesses
+        Industrial
+        Agricultural
+        All Businesses
+
+    Updates
+        Insert**R**
+        Delete**R**
+        Update**R**
+
+        Current Activities
+            Treatment Facility Summary Report
+            Water Source Summary Report
+
+        Water Treatment Regulations
+            SQL#3
+
+        Regulation Compliance
+            SQL#4
+
+        Industrial
+            SQL#5
+
+        Agricultural
+            SQL#6
+
+        All Businesses
+            Water Usage
+            New Businesses Opened In Past Two Years
+
+        Update
+            Water Treatment Facility
+            Water Source
+            Business
+            Regulation
+
+            Treatment Facility Summary Report
+                SQL#1
+
+            Water Source Summary Report
+                SQL#2
+
+            Water Treatment Facility
+                SQL#8
+            
+            Water Source
+                SQL#9
+
+            Business
+                SQL#10
+
+            Regulation
+                SQL#11
+
+            Water Usage
+                SQL#7
+
+            New Businesses Opened In Past Two Years
+                SQL#12
